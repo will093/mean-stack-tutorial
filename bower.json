@@ -1,0 +1,28 @@
+{
+  "name": "mean-tutorial",
+  "description": "Pluralsight MEAN stack tutorial",
+  "main": "index.js",
+  "authors": [
+    "Will ST (tutorial by Joe Eames)"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/will093/mean-stack-tutorial",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.3",
+    "angular": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "angular-route": "^1.6.4"
+  },
+  "resolutions": {
+    "jquery": "^3.2.1"
+  }
+}
